@@ -1,0 +1,13 @@
+.in-out {
+  width: 100vw;
+  height: 100vh;
+  display: flex;
+}
+
+.box {
+  margin-top: 100px;
+  width: 50px;
+  height: 50px;
+  border: 1px grey solid;
+  background-color: grey;
+}
